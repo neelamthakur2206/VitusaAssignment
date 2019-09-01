@@ -1,2 +1,2 @@
-# VitusaAssignment
+# Assignment
 Convert Numbers to Words
